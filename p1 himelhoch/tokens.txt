@@ -1,0 +1,3 @@
+STRINGLITERAL:"use \n to denote a newline character" [1,1]
+STRINGLITERAL:"use \" to  for a quote and \\ for a backslash" [2,1]
+EOF [4,46]

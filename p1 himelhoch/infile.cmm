@@ -1,0 +1,4 @@
+"use \n to denote a newline character"
+"use \" to  for a quote and \\ for a backslash"
+"backslash followed by space: \ is not allowed"
+"bad escaped character: \a AND not terminated

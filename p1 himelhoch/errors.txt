@@ -1,0 +1,7 @@
+FATAL [14,1]-[14,7]: Short literal overflow 
+FATAL [17,1]-[17,6]: Unterminated string literal ignored
+FATAL [18,1]-[18,9]: String literal with bad escape sequence ignored
+FATAL [19,1]-[19,8]: Unterminated string literal with bad escape sequence ignored
+FATAL [23,1]-[23,2]: Illegal character $
+FATAL [25,1]-[25,7]: Unterminated string literal with bad escape sequence ignored
+FATAL [26,8]-[26,14]: Unterminated string literal with bad escape sequence ignored
